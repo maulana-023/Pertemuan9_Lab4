@@ -14,7 +14,7 @@ Kelas   : TI.20. A.1 <br>
 
 ![Picture - New](pict/tampilan4.png)
 
-> jadi dibawah ini syntax untuk menambahkan beberapa data diantarnya NAMA, NIM, NILAI TUGAS, NILAI UTS Dan NILAI UAS.
+>dibawah ini, syntax untuk menambahkan beberapa data diantarnya NAMA, NIM, NILAI TUGAS, NILAI UTS Dan NILAI UAS.
 
 ```python
 nama = input("Masukkan Nama: ")
@@ -62,8 +62,9 @@ print("==================================================================")
 ```
 
 > setelah run syntax diatas, maka akan muncul seperti gambar dibawah ini :
+
 ![Picture - New](pict/hasillab4.png)
 
-Sekian hanya ini yang dapat saya sampaikan, semoga bermanfaat.
+### Sekian hanya ini yang dapat saya sampaikan, semoga bermanfaat.
 
-#TERIMAKASIH
+# TERIMAKASIH
