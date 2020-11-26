@@ -1,3 +1,16 @@
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Pertemuan 9</b></td>
+    <td>Lab4</td>
+    <td><a href="https://github.com/maulana-023/Pertemuan9_Lab4.git">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b></b></td>
+    <td>Lab5</td>
+    <td><a href="https://github.com/maulana-023/Pertemuan9_Lab5.git">Klik disini</td>
+  </tr>
+  </table>
+
 ## Tugas 
 Repository ini dibuat untuk memenuhi tugas Pertemuan 9 - Bahasa Pemrograman.
 <hr>
